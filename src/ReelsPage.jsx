@@ -1,11 +1,11 @@
+import ComingSoon from "./ComingSoon";
 
 
 
 function ReelsPage() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen">
-      <h1>Reels Page</h1>
-      {/* Add your Reels page content here */}
+      <ComingSoon />
     </div>
   );
 }
