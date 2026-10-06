@@ -29,11 +29,11 @@ export function Header() {
 
                 {/* div two */}
                 <div className="flex flex-col gap-8">
-                    <div className="flex items-center relative gap-3 cursor-pointer group/bg">
+                    <Link to="/" className="flex items-center relative gap-3 cursor-pointer group/bg">
                         <div className="absolute -left-100 px-23 py-5 rounded-lg duration-100 bg-gray-200 group-hover/bg:-left-3"></div>
                         <GoHomeFill className="text-3xl z-2" />
                         <h1 className="absolute -left-100 duration-300 text-base group-hover:left-13">Home</h1>
-                    </div>
+                    </Link>
 
                     <Link to="/reels" className="flex items-center relative gap-3 cursor-pointer group/bg">
                         <div className="absolute -left-100 px-23 py-5 rounded-lg duration-100 bg-gray-200 group-hover/bg:-left-3"></div>

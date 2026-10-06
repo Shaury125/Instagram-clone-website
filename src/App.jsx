@@ -2,7 +2,7 @@ import HomePage from "./HomePage";
 import ReelsPage from "./ReelsPage";
 import MessagePage from "./MessagePage";
 import SearchPage from "./SearchPage";
-import LikePage from "./LikePage";
+import LikePage from "./LikePage"; 
 import CreatPage from "./CreatPage";
 import DashboardPage from "./DashboardPage";
 import ProfilePage from "./ProfilePage";
