@@ -6,12 +6,14 @@ import { LuSend } from "react-icons/lu";
 import { BsThreeDots } from "react-icons/bs";
 import SideChat from "./SideChat";
 import { Link } from "react-router-dom";
+import Navbar from "./Navbar";
 
 
 function HomePage() {
     return (
         <div className="sm:min-h-screen md:ml-20 lg:flex">
             <Header />
+            <Navbar />
             <div className="lg:max-w-[61%]">
                 <StorySection />
                 <Reels />
