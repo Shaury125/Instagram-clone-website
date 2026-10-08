@@ -2,7 +2,7 @@
 
 function SearchContent() {
     return (
-        <div className="overflow-hidden px-5 md:max-w-2xl md:pl-[9%] mx-auto flex flex-col justify-center items-center">
+        <div className="overflow-hidden md:max-w-2xl md:pl-[9%] mx-auto flex flex-col justify-center items-center">
             <div className="flex">
                 <div className="w-fit h-107 border border-b-0"><img className="w-full h-full" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUlMVT-XYKeNAgZRQar8nvH8ArfwkuZz4ZM-Mc-8GqrA&s=10" alt="" /></div>
                 <div className="w-fit h-107 border border-b-0"><img className="w-full h-full" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1is-lPtKLA8bSm1PMMqs-TTw3i35vZAur_Mm5HUjSQQ&s=10" alt="" /></div>
