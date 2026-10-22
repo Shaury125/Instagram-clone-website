@@ -1,7 +1,7 @@
-import { Footer, Header } from "./Header";
-import SearchContent from "./SearchContent";
+import { Footer, Header } from "../Header";
+import SearchContent from "../SearchContent";
 import { CiSearch } from "react-icons/ci";
-import Navbar from "./Navbar";
+import Navbar from "../Navbar";
 
 
 function SearchPage() {

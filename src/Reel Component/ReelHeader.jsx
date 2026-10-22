@@ -1,4 +1,4 @@
-import Profilebox from "./Profilebox";
+import Profilebox from "../Storie Components/Profilebox";
 import { CiMusicNote1 } from "react-icons/ci";
 import { CiMenuFries } from "react-icons/ci";
 

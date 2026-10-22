@@ -1,12 +1,12 @@
-import { Header } from "./Header";
-import { Footer } from "./Header";
-import Reels from "./Reels";
-import StorySection from "./StorySection";
+import { Header } from "../Header";
+import { Footer } from "../Header";
+import Reels from "../Reel Component/Reels";
+import StorySection from "../Storie Components/StorySection";
 import { LuSend } from "react-icons/lu";
 import { BsThreeDots } from "react-icons/bs";
-import SideChat from "./SideChat";
+import SideChat from "../SideChat";
 import { Link } from "react-router-dom";
-import Navbar from "./Navbar";
+import Navbar from "../Navbar";
 
 
 function HomePage() {

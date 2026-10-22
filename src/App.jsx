@@ -1,13 +1,13 @@
-import HomePage from "./HomePage";
-import ReelsPage from "./ReelsPage";
-import MessagePage from "./MessagePage";
-import SearchPage from "./SearchPage";
-import LikePage from "./LikePage"; 
-import CreatPage from "./CreatPage";
-import DashboardPage from "./DashboardPage";
-import ProfilePage from "./ProfilePage";
-import MorePage from "./MorePage";
-import MetaPage from "./MetaPage";
+import HomePage from "./Pages/HomePage";
+import ReelsPage from "./Reel Component/ReelsPage";
+import MessagePage from "./Pages/MessagePage";
+import SearchPage from "./Pages/SearchPage";
+import LikePage from "./Pages/LikePage"; 
+import CreatPage from "./Pages/CreatPage";
+import DashboardPage from "./Pages/DashboardPage";
+import ProfilePage from "./Pages/ProfilePage";
+import MorePage from "./Pages/MorePage";
+import MetaPage from "./Pages/MetaPage";
 import { Routes, Route } from "react-router-dom";
 
 
